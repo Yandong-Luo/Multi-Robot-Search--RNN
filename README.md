@@ -11,5 +11,6 @@ In this task, the robots need to find the path between the two specific areas in
 
 
 # Single robot
-<p align="center">![Screencast 2020-05-08 23_44_27 00_00_51-00_00_59](https://user-images.githubusercontent.com/57821839/112744361-11d4e080-8fd2-11eb-9e2f-a4060c464394.gif)</p>
+<div align=center><img src="https://user-images.githubusercontent.com/57821839/112744361-11d4e080-8fd2-11eb-9e2f-a4060c464394.gif"/></div>
+
 
