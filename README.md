@@ -13,9 +13,14 @@ in these examples, we use CMake. To compile the examples, open up a
 shell, go to the directory where you unpacked the tar.bz2 file and
 type:
 
-Download this project to your workplace first, then:
+Download this project to your workplace first
+
+$ git clone https://github.com/Yandong-Luo/Multi-Robot-Search--RNN.git
+
+$ cd Multi-Robot-Search--RNN
 
 $ mkdir build
+
 $ cd build
 
 To produce debuggable code (slow), type:
