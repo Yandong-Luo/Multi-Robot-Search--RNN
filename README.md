@@ -8,4 +8,5 @@ In this task, the robots need to find the path between the two specific areas in
 ![kazam_n23f5cul 00_00_05-00_00_10](https://user-images.githubusercontent.com/57821839/112744337-da663400-8fd1-11eb-9b0a-06af2323da07.gif)
 
 # Single robot
-![Uploading Screencast 2020-05-08 23_44_27 00_00_51-00_00_59.gif…]()
+![Screencast 2020-05-08 23_44_27 00_00_51-00_00_59](https://user-images.githubusercontent.com/57821839/112744361-11d4e080-8fd2-11eb-9e2f-a4060c464394.gif)
+
