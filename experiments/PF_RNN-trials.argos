@@ -177,10 +177,25 @@
   <!-- <visualization>
     <qt-opengl>
       <camera>
-        <placement idx="0" position="0,0,6" look_at="0,0,0" lens_focal_length="40" />
+        <placement index="0" position="0,0,8.14689" look_at="0,0,0" up="1,0,0" lens_focal_length="65" />
       </camera>
       <user_functions label="rnn_qtuser_function" />
     </qt-opengl>
   </visualization> -->
+
+    <visualization>
+    <qt-opengl>
+      <camera>
+        <placements>
+          <!-- <placement index="0" position="0,0,1.4689" look_at="0,0,0" up="0,0,0.1" lens_focal_length="60" /> -->
+          <placement index="0" position="-0.0,0.0,7.5" look_at="0.0,0.0,0" lens_focal_length="30.0" />
+        <placement index="1" position="-0.0,0.0,0.0" look_at="-0.0,0.0,0" lens_focal_length="30.0" />
+
+        <placement index="2" position="-0.299023,-0.449262,3.15157" look_at="-0.258768,-1.01693,2.32929" lens_focal_length="20" />
+
+        </placements>
+      </camera>
+    </qt-opengl>
+  </visualization>
 
 </argos-configuration>
